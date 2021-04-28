@@ -3,13 +3,7 @@ namespace UnitTestingExercise
 {
     public class UnitTestMethods
     {
-        // Make sure your references are set properly
-            // Righ-click on Dependencies in your .Tests project and set your reference
-
-
-
-        // Create an Add method that passes 3 integers
-
+        
         public int Add(int x, int y, int z)
         {
             return x + y + z;
@@ -38,6 +32,11 @@ namespace UnitTestingExercise
             return "Test has been completed";
 
         }
+        // Make sure your references are set properly
+        // Righ-click on Dependencies in your .Tests project and set your reference
+
+
+        // Create an Add method that passes 3 integers
         // Create a Subtract method that passes 2 integers
         // Keep track of which number is getting passed as minuend and subtrahend
 
